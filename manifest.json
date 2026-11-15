@@ -1,0 +1,9 @@
+{
+  "id": "library-reader",
+  "name": "Library Reader",
+  "version": "0.2.0",
+  "minAppVersion": "1.5.0",
+  "description": "Turns a vault of PDFs into a reading room: keyboard-first catalogue, per-book notes beside the book, full-text search with context, and a reference desk of new books, recent notes and books needing fixes.",
+  "author": "Grant Leuning",
+  "isDesktopOnly": true
+}
